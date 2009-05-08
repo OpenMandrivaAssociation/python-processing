@@ -1,6 +1,6 @@
 Name:		python-processing
 Version:	0.52
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		Sciences/Other
 License:	BSD
 Summary:	Python processing
