@@ -37,5 +37,6 @@ Features:
 %clean
 %__rm -rf %{buildroot}
 
-%files -f INSTALLED_FILES
+%files
 %defattr(-,root,root)
+%py_platsitedir/*
