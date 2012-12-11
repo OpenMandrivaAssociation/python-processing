@@ -40,3 +40,21 @@ Features:
 %files
 %defattr(-,root,root)
 %py_platsitedir/*
+
+
+%changelog
+* Sun Nov 21 2010 Funda Wang <fwang@mandriva.org> 0.52-2mdv2011.0
++ Revision: 599418
+- update file list
+
+* Sat May 09 2009 Paulo Andrade <pcpa@mandriva.com.br> 0.52-2mdv2010.0
++ Revision: 373582
++ rebuild (emptylog)
+
+* Thu Mar 26 2009 Paulo Andrade <pcpa@mandriva.com.br> 0.52-1mdv2009.1
++ Revision: 361520
+- Initial import of python-processing, version 0.52.
+  Supports the spawning of processes using the API of the standard library's threading module.
+  http://pyprocessing.berlios.de
+- python-processing
+
