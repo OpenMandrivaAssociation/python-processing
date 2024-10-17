@@ -5,7 +5,7 @@ Group:		Sciences/Other
 License:	BSD
 Summary:	Python processing
 Source:		http://prdownload.berlios.de/pyprocessing/processing-%{version}.zip
-URL:		http://pyprocessing.berlios.de
+URL:		https://pyprocessing.berlios.de
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 BuildRequires:	python-devel
